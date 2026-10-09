@@ -1,0 +1,4 @@
+code,name,department_code,credits,weekly_contact_hours,is_elective,requires_lab
+CS301,Data Structures & Algorithms,CSE,4.0,4.0,FALSE,FALSE
+CS331,Data Structures Laboratory,CSE,2.0,3.0,FALSE,TRUE
+MA301,Discrete Mathematics,MATH,4.0,4.0,FALSE,FALSE

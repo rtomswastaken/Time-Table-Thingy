@@ -1,0 +1,4 @@
+academic_year,start_date,end_date,is_current,semester_number,term_name
+2026-2027,2026-08-01,2027-05-31,TRUE,1,Semester 1 (Fall 2026)
+2026-2027,2026-08-01,2027-05-31,TRUE,3,Semester 3 (Fall 2026)
+2026-2027,2026-08-01,2027-05-31,TRUE,5,Semester 5 (Fall 2026)

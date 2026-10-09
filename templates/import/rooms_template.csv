@@ -1,0 +1,4 @@
+code,name,room_type,capacity,building,floor
+R-101,Lecture Hall 101,LECTURE_HALL,65,Main Academic Block,1
+R-102,Classroom 102,LECTURE_HALL,60,Main Academic Block,1
+LAB-AI,AI & Data Computing Lab,COMPUTER_LAB,40,Turing Technology Centre,2

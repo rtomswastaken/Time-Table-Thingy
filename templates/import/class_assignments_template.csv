@@ -1,0 +1,4 @@
+class_name,subject_code,primary_teacher_employee_id,secondary_teacher_employee_id,student_group_name
+CS-3A,CS301,T101,,
+CS-3A,CS331,T101,T102,Batch 1
+CS-3A,MA301,T103,,

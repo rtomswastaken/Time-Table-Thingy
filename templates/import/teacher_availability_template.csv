@@ -1,0 +1,4 @@
+employee_id,day_of_week,period_index,is_available,preference_weight
+T101,4,5,FALSE,-10
+T101,0,0,TRUE,5
+T102,2,0,FALSE,-5

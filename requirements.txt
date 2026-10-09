@@ -1,0 +1,17 @@
+# Timetable Thingy - Project Dependencies
+# Supported Python versions: Python 3.11+
+
+# UI Framework (CustomTkinter Desktop GUI)
+customtkinter>=6.0.0
+darkdetect>=0.8.0
+pillow>=10.0.0
+
+# Mathematical Optimization (CP-SAT Solver)
+ortools>=9.10.0
+
+# Data Exchange & Reporting (Excel & PDF)
+openpyxl>=3.1.0
+reportlab>=4.0.0
+
+# Development & Testing
+pytest>=8.0.0

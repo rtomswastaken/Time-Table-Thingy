@@ -1,0 +1,4 @@
+employee_id,name,department_code,email,is_full_time,max_weekly_hours,min_weekly_hours,max_daily_hours,max_consecutive_hours
+T101,Dr. Alan Turing,CSE,alan.turing@institution.edu,TRUE,18,10,4,2
+T102,Prof. Ada Lovelace,CSE,ada.lovelace@institution.edu,TRUE,16,8,4,2
+T103,Dr. Claude Shannon,ECE,claude.shannon@institution.edu,TRUE,20,12,5,3

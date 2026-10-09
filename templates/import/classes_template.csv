@@ -1,0 +1,4 @@
+name,department_code,student_count,semester_number,section,home_room_code
+CS-3A,CSE,60,3,A,R-101
+CS-3B,CSE,55,3,B,R-102
+EC-3A,ECE,50,3,A,R-201
